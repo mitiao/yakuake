@@ -16,6 +16,10 @@ Options:
 
     -s file   save yakuake sessions to a file
     -l file   restore yakuake sessions from a file
+    
+Note:
+
+To activate file path completion, put this script somewhere in "PATH" and then execute it
 
 =cut
 
